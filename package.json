@@ -1,0 +1,16 @@
+{
+  "name": "gerenciar-aluguel",
+  "version": "1.0.0",
+  "description": "Projeto para solucionar um problema familiar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
